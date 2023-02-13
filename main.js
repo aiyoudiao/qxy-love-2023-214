@@ -8,7 +8,7 @@ document.querySelector("head").innerHTML = `
 document.querySelector("#app").innerHTML = `
 <!-- 音乐 -->
 <audio id="audio" autoplay="autoplay" loop>
-      <source src="renxi.mp3" type="audio/mp3" />
+      <source src="music/love is gone.mp3" type="audio/mp3" />
 </audio>
 
 <main>
